@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Mwendwa Kiko, engineer, researcher and writer
+
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on econometric and machine learning transport models.
+- 📫 How to reach me: www.linkedin.com/in/mwendwa-kiko
 
 <!--
 **AndreMwendwa/AndreMwendwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
